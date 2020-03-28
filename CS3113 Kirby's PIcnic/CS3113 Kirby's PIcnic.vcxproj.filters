@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Apple Pixel.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Grass block.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Grass block Success.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Kirby SS.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Pixel Mimikyu.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Pixel Snorlax.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\pixel_font.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Sky.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Sky2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\Green Greens - Kirby%27s Dream Land.mp3">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\smb_1-up.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="..\..\CS3113 Kirby%27s PIcnic\CS3113 Kirby%27s PIcnic\smb_mariodie.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

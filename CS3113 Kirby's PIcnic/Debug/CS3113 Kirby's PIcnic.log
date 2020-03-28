@@ -1,0 +1,10 @@
+﻿  Entity.cpp
+  main.cpp
+c:\users\erica\source\repos\cs3113 kirby's picnic\cs3113 kirby's picnic\main.cpp(30): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\erica\source\repos\cs3113 kirby's picnic\cs3113 kirby's picnic\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\erica\source\repos\cs3113 kirby's picnic\cs3113 kirby's picnic\main.cpp(484): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\erica\source\repos\cs3113 kirby's picnic\cs3113 kirby's picnic\main.cpp(487): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\erica\source\repos\cs3113 kirby's picnic\cs3113 kirby's picnic\main.cpp(512): warning C4018: '<': signed/unsigned mismatch
+  ShaderProgram.cpp
+  Generating Code...
+  CS3113 Kirby's PIcnic.vcxproj -> C:\Users\erica\source\repos\CS3113 Kirby's PIcnic\Debug\CS3113 Kirby's Picnic.exe
